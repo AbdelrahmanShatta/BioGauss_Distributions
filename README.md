@@ -5,3 +5,7 @@ The Gaussian-Binomial Package is a Python library designed to facilitate operati
 
 ## Installation
 `pip install BioGauss_Distributions`
+
+
+## Features
+supports adding/displaying/calculating PDF,mean,standerd deviation of both Binomial and Gaussian Distributions 
